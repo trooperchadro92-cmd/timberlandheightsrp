@@ -1,0 +1,8 @@
+index.html
+departments.html
+gallery.html
+store.html
+rules.html
+css/style.css
+js/animations.js
+images/header.jpg
